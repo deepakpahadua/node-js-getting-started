@@ -59,11 +59,11 @@ dependencies:
 #           RACK_ENV: test
 
 ## Customize deployment commands
-# deployment:
-#   staging:
-#     branch: master
-#     heroku:
-#       appname: coffeshopapp
+ deployment:
+   staging:
+    branch: master
+    heroku:
+     appname: testappworking
 
 ## Custom notifications
 #notify:
